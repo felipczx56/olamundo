@@ -1,0 +1,17 @@
+{
+  "name": "ola-mundo-node",
+  "version": "1.0.0",
+  "description": "A simple Hello World application in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
